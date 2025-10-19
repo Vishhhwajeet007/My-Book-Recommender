@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Chroma DB files
+.chroma/
+chroma_db/
